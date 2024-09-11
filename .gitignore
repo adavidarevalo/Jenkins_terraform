@@ -1,0 +1,7 @@
+.terraform*
+Terraform-keyPair.pem
+terraform*
+.terraform
+./local-exec-outputs-files/*
+secrets*
+builds
